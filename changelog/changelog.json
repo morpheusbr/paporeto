@@ -1,0 +1,44 @@
+[
+  {
+    "codnome": "ChatSqlite",
+    "versao": "0.1 Beta",
+    "modificacoes": "\r\n-Versão beta do do ChatSqlite.\r\n-Criado sistema de login em modo visitante, com opção de ativar conta permanente.\r\n-Adicionado opções de salas de bate papo.\r\n-Adicionado envio de mensagem Privada na sala.\r\n-Adicionado envio de arquivos nas Salas.\r\n-Adicionado pagina de usuarios online.\r\n-Adicionado Emoji.\r\n-Adicionado BBCodes:\r\n [b]Texto Aqui[/b],[i]Texto Aqui[/i],[code]Codigo Aqui[/code],[size=12]Texto Aqui[/size],[s]Texto Aqui[/s],[center]Texto Aqui[/center],[color=blue]Texto Aqui[/color],[email]Seu Email Aqui[/email],[url]url aqui[/url],[url=link aqui]Titulo[/url],[img]link da imagem[/img],[youtube]link do youtube[/youtube].",
+    "data": "01-02-2017"
+  },
+  {
+    "codnome": "ChatSqlite",
+    "versao": "1.0 RC",
+    "modificacoes": "\r\n -Adicionado opção dos usuarios registrados criarem salas privadas com senha.\r\n-Adicionado opção Quicar , Bloquear e Banir Ip Usuario (Administradores).\r\n-Adicionado funções para os donos de Salas Quicar e Bloquear usuarios.\r\n-Adicionado Modo Depuração para Programaores.",
+    "data": "08-07-2017"
+  },
+  {
+    "codnome": "ChatSqlite",
+    "versao": "2.0 RC",
+    "modificacoes": "\r\n -Adicionado Caixa de mensagens privada para usuarios cadastrados.\r\n-Adicionado Opção de Lista de contatos.",
+    "data": "01-03-2018"
+  },
+  {
+    "codnome": "ChatSqlite",
+    "versao": "3.0 RC",
+    "modificacoes": "\r\n-Adicionado opção para customizações pos cadastros (Alterar Sexo,Apelido,Cores e Avatar).\r\n-Adicionado opção para mudança de senha.\r\n-Adicionado opção de envio de emojis no painel do Administrador.\r\n-Adicionado opções de criação de salas publicas no painel do Administrador.",
+    "data": "01-05-2018"
+  },
+  {
+    "codnome": "PapoReto",
+    "versao": "4.0 RC",
+    "modificacoes": "\r\n-Mudança de nome do Projeto de ChatSqlite para PapoReto.\r\n-Adicionado Parsedown para envio de mensagens dentro do Site.",
+    "data": "01-09-2018"
+  },
+  {
+    "codnome": "PapoReto",
+    "versao": "4.1 RC",
+    "modificacoes": "\r\n-Mudança do Tema Padão Branco para Dark.\r\n-Corrigo problemas no termino de sessão involuntario.\r\n-Adicionado Cache para Icones ",
+    "data": "01-09-2018"
+  },
+  {
+    "codnome": "PapoReto",
+    "versao": "4.1.1 RC",
+    "modificacoes": "\r\n-Removido sistema de mensagens privada a fim de forçar a comunicação entre usuarios através do Chat.",
+    "data": "08-09-2018"
+  }
+]
